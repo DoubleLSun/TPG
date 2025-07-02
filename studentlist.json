@@ -1,0 +1,44 @@
+{
+    "Studlst": [
+        {
+            "StudID": "2200011",
+            "StudName": "Jamie",
+            "NRIC Number": "230303-07-5555"
+        },
+        {
+            "StudID": "2205954",
+            "StudName": "Tan Ming Cheng",
+            "NRIC Number": "030819-14-0755"
+        },
+        {
+            "StudID": "2205524",
+            "StudName": "Jenny liu",
+            "NRIC Number": "040529-14-0794"
+        },
+        {
+            "StudID": "2201234",
+            "StudName": "Ah Wang",
+            "NRIC Number": "050817-06-0712"
+        },
+        {
+            "StudID": "2232221",
+            "StudName": "Chai Yu",
+            "NRIC Number": "011119-11-0712"
+        },
+        {
+            "StudID": "2211980",
+            "StudName": "Aiman",
+            "NRIC Number": "051019-14-0456"
+        },
+        {
+            "StudID": "2223956",
+            "StudName": "Syarifah",
+            "NRIC Number": "020805-14-0736"
+        },
+        {
+            "StudID": "2205921",
+            "StudName": "Woo Cheng Yu",
+            "NRIC Number": "023415-01-0215"
+        }
+    ]
+}

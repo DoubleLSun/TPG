@@ -1,0 +1,43 @@
+GUIDELINE FOR TEST MANAGEMENT
+
+INPUT 1 --> Setup(System Configuration)
+	INPUT 1 --> Student record
+
+			INPUT A --> ADD student id, name, NRIC
+			INPUT U --> UPDATE student id, name, NRIC 
+			INPUT D --> DELETE student record
+			INPUT E --> EXIT Student record
+
+	INPUT 2 --> Courses maintenance 
+
+			INPUT A --> ADD course code, description
+			INPUT U --> UPDATE course code, description 
+			INPUT D --> DELETE course code & description
+			INPUT Q --> QUIT A/U/D
+			INPUT E --> EXIT Course maintenance
+
+	INPUT 3 --> Question bank maintenance
+			INPUT A --> ADD question, answer option, answer
+			INPUT U --> UPDATE question, answer option, answer 
+			INPUT D --> DELETE the whole question
+			INPUT Q --> QUIT A/U/D
+			INPUT E --> EXIT course/question bank maintenance
+
+
+
+	INPUT 4 --> Test schedule management
+			INPUT A --> ADD date, slots, numbers of questions
+			INPUT U --> UPDATE question, answer option, answer 
+			INPUT D --> DELETE the whole question
+			INPUT Q --> QUIT A/U/D
+			INPUT E --> EXIT Course maintenance
+
+
+	INPUT E --> Exit
+
+INPUT 2 --> Generate Test Paper
+		Input course ID, student ID, test date
+
+INPUT 3 --> Help
+
+INPUT E --> Exit the program

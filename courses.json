@@ -1,0 +1,16 @@
+{
+    "Courses": [
+     {
+      "COURSES": "FHBM1114|MANAGEMENT"
+     },
+     {
+      "COURSES": "FHCT1024|PROGRAMMING CONCEPTS AND DESIGN"
+     },
+     {
+      "COURSES": "FHCT1012|COMPUTING TECHNOLOGY"
+     },
+     {
+        "COURSES": "FHMM1014|MATHEMATICS I"
+       }
+    ]
+   }
